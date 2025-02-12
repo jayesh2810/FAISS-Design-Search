@@ -8,8 +8,8 @@ An AI-powered chatbot that enables **design search and interaction** using **FAI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/jayesh2810/FAISS-Design-Search.git
+   cd FAISS-Design-Search
    ```
 2. Install Dependencies:
    ```bash
