@@ -17,7 +17,7 @@ An AI-powered chatbot that enables **design search and interaction** using **FAI
    ```
 3. Scrape the design data from Renesas website
    ```bash
-   python scraper.py
+   python scraping.ipynb
    ```
 4. Generate Embeddings (Automatically on First Run):
    When you run the main script (app.py), it automatically generates embeddings from the scraped data and stores them in embeddings_cache.npz to speed up future searches.
